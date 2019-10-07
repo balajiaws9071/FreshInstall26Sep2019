@@ -3,4 +3,3 @@ class helloworld {
        System.out.println("Hi, Welcome to Jenkins");
        }
 }       
-
